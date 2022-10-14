@@ -11,12 +11,12 @@ function Main() {
 
     const [iPhone, setListiPhone] = useState([]);
     useEffect(() => {
-            const getDataformAPI = async()=>{
-                const data = await iPhoneservice.getAll();
-                setListiPhone(data);
-            }
-            getDataformAPI(); 
-           
+        const getDataformAPI = async () => {
+            const data = await iPhoneservice.getAll();
+            setListiPhone(data);
+        }
+        getDataformAPI();
+
     }, [])
     return (
         <div className="background">
@@ -56,23 +56,25 @@ function Main() {
                     </Link>
                 </ul>
             </div>
-          
+
             <div className='container'>
                 <div className="row noilen">
-                {
-                        iPhone.map(product =>{return (
-                            <div className='col-md-4 mt-3' key={product.id}>
-                           <Link to={`/detail/${product.id}`}> 
-                            <div className="iPhone02"  >
-                                <img src={product.image} />
-                                <h5 className="Name"> {product.name}</h5>
-                                <span className="Price">{product.price}</span>
-                               <p className="New">{product.note}</p>
-                            </div>
-                        </Link>
-                        </div>
-                        )
-                    })
+                    {
+                        iPhone.map(product => {
+                            return (
+                                <div className='col-md-4 mt-3' key={product.id}>
+                                    <Link to={`/detail/${product.id}`}>
+                                        <div className="iPhone02"  >
+                                            <img src={product.image} />
+                                            <h5 className="Name"> {product.name}</h5>
+
+                                            <span className="Price">{product.price}</span>
+                                            <p className="New">{product.note}</p>
+                                        </div>
+                                    </Link>
+                                </div>
+                            )
+                        })
                     }
                 </div>
             </div>

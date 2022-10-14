@@ -47,7 +47,7 @@ function Detailip() {
                 <h1>{iPhone.name}</h1>
             </div>
           
-
+            <p className='Ram' >Dung lượng: {iPhone.infor}</p>
             <p className="sale">{iPhone.price} <span>{iPhone.price_old}</span></p>
             
             
