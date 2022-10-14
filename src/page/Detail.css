@@ -46,10 +46,8 @@ body {
     width: 50%;
 }
 
-.infor a i {
-    padding: 10px;
-    cursor: pointer;
-}
+
+
 .detail {
     display: flex;
     margin-top: 50px;
@@ -59,41 +57,61 @@ body {
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
-.addCart{
-    width: 50px!important;
+
+.addCart {
+    width: 50px !important;
+    background: red;
+    justify-items: center;
+}
+
+.addCart i {
+    text-align: center;
+ 
+}
+.Detail_buy{
+    display: flex;
 }
 .infor p {
     margin-top: 20px;
     color: gray;
-    font-family:'Times New Roman', Times, serif ;
-    font-weight:'100';
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: '100';
 }
-.infor button{
-    background: red; 
-    width:200px;
-    border:none;
-    color:white;
-    border-radius:5px;
+.btn{
+    height: 35px;
     margin-top: 20px;
-    padding:5px;
 }
-.giovang p{
-    color:black;
-    font-size:10px;
+.infor button {
+    background: red;
+    width: 200px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.giovang p {
+    color: black;
+    font-size: 10px;
     margin-top: -10px;
-    
+
 }
-.giovang{
-    border:1px solid white;
-    margin-top:10px;padding:10px;
-    background:rgb(202, 202, 202);
-    border-radius:10px;
-    width:300px;
+
+.giovang {
+    border: 1px solid white;
+    margin-top: 10px;
+    padding: 10px;
+    background: rgb(202, 202, 202);
+    border-radius: 10px;
+    width: 300px;
 }
-.infor h4{
-    color:white;
-    margin-top:10px
+
+.infor h4 {
+    color: white;
+    margin-top: 10px
 }
+
 .sale {
     color: white !important;
     font-weight: 900 !important;
@@ -129,35 +147,47 @@ body {
 .infor ul li:hover {
     background: gray;
 }
-.payment{
-    margin-top:50px;display:flex;
+
+.payment {
+    margin-top: 50px;
+    display: flex;
 }
-.payment a{
-    cursor:pointer;
+
+.payment a {
+    cursor: pointer;
 }
 
 .color {
-    font-size:20px
+    font-size: 20px
 }
-.color span{
-    font-size:15px ;
+
+.color span {
+    font-size: 15px;
 }
-.vnpay h5{
-    color:blue;margin-top:-30x;
-    margin-left:20px;
-    padding-bottom:10px;
+
+.vnpay h5 {
+    color: blue;
+    margin-top: -30x;
+    margin-left: 20px;
+    padding-bottom: 10px;
 }
-.vnpay h5 span{
-    color:red;
+
+.vnpay h5 span {
+    color: red;
 }
-.vnpay{
-    width:200px;
-    background:white;
+
+.vnpay {
+    width: 200px;
+    background: white;
     margin-right: 50px;
 }
-.vnpay p{
-    color:black;
-    margin-top:-20px;
-    margin-left:20px;
-    font-size:15px;
+
+.vnpay p {
+    color: black;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.Ram span{
+    color: White;
 }

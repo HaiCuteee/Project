@@ -159,6 +159,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Trắng",
       "category_id": 1
     },
     {
@@ -169,6 +170,7 @@
       "price_old": "50.200.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Tím",
       "category_id": 1
     },
     {
@@ -179,6 +181,7 @@
       "price_old": "40.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Vàng",
       "category_id": 1
     },
     {
@@ -199,6 +202,7 @@
       "price_old": "30.900.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Trắng",
       "category_id": 2
     },
     {
@@ -209,6 +213,7 @@
       "price_old": "30.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Vàng",
       "category_id": 2
     },
     {
@@ -219,6 +224,7 @@
       "price_old": "20.500.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Vàng",
       "category_id": 2
     },
     {
@@ -229,6 +235,7 @@
       "price_old": "20.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Đỏ",
       "category_id": 2
     },
     {
@@ -239,6 +246,7 @@
       "price_old": "30.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Đen",
       "category_id": 3
     },
     {
@@ -249,6 +257,7 @@
       "price_old": "35.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Cam",
       "category_id": 1
     },
     {
@@ -259,6 +268,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Trắng",
       "category_id": 1
     },
     {
@@ -289,6 +299,7 @@
       "price_old": "30.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 512gb",
+      "color":"Trắng",
       "category_id": 2
     },
     {
@@ -299,6 +310,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 256gb",
+      "color":"Đen",
       "category_id": 2
     },
     {
@@ -308,7 +320,9 @@
       "price": "20.000.999đ",
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
+      "color":"Đen",
       "infor": " 256gb",
+
       "category_id": 2
     },
     {
@@ -319,6 +333,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Đen",
       "category_id": 3
     },
     {
@@ -329,6 +344,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 128gb",
+      "color":"Trắng",
       "category_id": 3
     },
     {
@@ -349,6 +365,7 @@
       "price_old": "50.000.000đ",
       "note": "Hàng sẵn",
       "infor": " 1tb",
+      "color":"Đỏ",
       "category_id": 4
     }
   ],

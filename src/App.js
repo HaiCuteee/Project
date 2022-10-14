@@ -62,9 +62,9 @@ function App() {
         <Route path='/About' element={<About />} />
         <Route path='/login' element={<Login />} />
         <Route path='/Register' element={<Register />} />
-        <Route path='/detail/:id' element={<Detailip/>}/>
-        <Route path='/Cart' element={ <Cart/> } />
-     
+        <Route path='/detail/:id' element={<Detailip />} />
+
+        <Route path='/Cart' element={<Cart />} />
       </Routes>
 
       <Footer />
