@@ -11,7 +11,6 @@ body {
 .container-fluid2 {
     width: 100%;
 
-
 }
 
 .container-fluid3 {
@@ -188,13 +187,13 @@ body {
 }
 
 .n {
-    padding: 8px 55px;
+    padding: 8px 20px;
 }
 
 
 .menu ul li {
     cursor: pointer;
-    width: 180px;
+    width: 150px;
     height: 60px;
     background: #323232;
     box-sizing: border-box;
@@ -265,7 +264,7 @@ body {
     color: rgb(255, 255, 255);
 }
 
-hr {
+.hr {
     margin-left: 50px;
     margin-right: 400px;
     background: rgb(112, 110, 110);

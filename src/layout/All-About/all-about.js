@@ -86,7 +86,7 @@ function About() {
                         Apple cho ra mắt</p>
                     <span className="time">2 giờ trước</span>
                 </div>
-                <hr />
+                <hr className="hr" />
 
                 <div className="information">
                     <div className="ava">
@@ -96,7 +96,7 @@ function About() {
                         Apple cho ra mắt</p>
                     <span className="time">2 giờ trước</span>
                 </div>
-                <hr />
+                <hr className="hr" />
 
                 <div className="information">
                     <div className="ava">
@@ -106,7 +106,7 @@ function About() {
                         Apple cho ra mắt</p>
                     <span className="time">2 giờ trước</span>
                 </div>
-                <hr />
+                <hr className="hr" />
 
 
                 <div className="information">
@@ -118,7 +118,7 @@ function About() {
                         Apple cho ra mắt</p>
                     <span className="time">2 giờ trước</span>
                 </div>
-                <hr />
+                <hr className="hr" />
 
 
                 <div className="information">
@@ -130,7 +130,7 @@ function About() {
                         Apple cho ra mắt</p>
                     <span className="time">2 giờ trước</span>
                 </div>
-                <hr />
+                <hr className="hr" />
 
                 <div className="xemthem">
                     <button type="submit">Xem thêm 1382</button>
@@ -153,7 +153,7 @@ function About() {
                             <p>Cách đơn giản để chuyển giữ liệu sang iPhone mới - HK Store</p>
 
                         </div>
-                        <hr />
+                        <hr className="hr" />
                         <div className="information">
                             <iframe width="180" height="100%" src="https://www.youtube.com/embed/bxSPtSTFrXY"
                                 title="Đặt lại mật khẩu Apple ID vô cùng đơn giản trên iPhone - Topzone" frameborder="0"
@@ -162,7 +162,7 @@ function About() {
                             <p>Cách cập nhật iOS trên iPhone của bạn - HK Store</p>
 
                         </div>
-                        <hr />
+                        <hr className="hr" />
                         <div className="information">
                             <iframe width="180" height="100%" src="https://www.youtube.com/embed/q0zwfu2vEeo"
                                 title="Cách cập nhật iOS trên iPhone của bạn - Topzone" frameborder="0"
@@ -186,7 +186,7 @@ function About() {
                             được Apple cho ra mắt</p>
                         <span className="time">2 giờ trước</span>
                     </div>
-                    <hr />
+                    <hr className="hr" />
 
                     <div className="information">
                         <div className="ava">
@@ -197,7 +197,7 @@ function About() {
                             được Apple cho ra mắt</p>
                         <span className="time">2 giờ trước</span>
                     </div>
-                    <hr />
+                    <hr className="hr" />
 
                     <div className="information">
                         <div className="ava">
@@ -208,7 +208,7 @@ function About() {
                             được Apple cho ra mắt</p>
                         <span className="time">2 giờ trước</span>
                     </div>
-                    <hr />
+                    <hr className="hr" />
 
                     <div className="xemthem">
                         <button type="submit">Xem thêm 1382</button>

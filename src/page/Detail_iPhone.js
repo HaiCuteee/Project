@@ -30,7 +30,7 @@ function Detailip() {
        
         <div className="img">
             
-            <div className="img_big"><img src={iPhone.image} alt=""/></div>
+            <div className="img_Detail"><img src={iPhone.image} alt=""/></div>
             <div className="right"></div>
             <div className="img_small">
                 <ul>
